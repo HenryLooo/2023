@@ -78,6 +78,7 @@ img:hover {
 	font-size: 17px;
 }
 .button_resize_200 {
+	background: url(img/empty.png);
 	font-size: 24px;
 }
 .qrcode {
@@ -153,90 +154,90 @@ img:hover {
 	position: absolute;
 	cursor: pointer;
 }
-/* .month_01 {
-	left: 7px;
+.month_01 {
+	left: 8px;
 	background: url(img/empty.png);
 }
 .month_01:hover {
-	background: url(img/button_white.png) -15px -680px;
+	background: url(img/button_white.png) -8px -685px;
 }
 .month_02 {
-	left: 67.5px;
+	left: 68px;
 	background: url(img/empty.png);
 }
 .month_02:hover {
-	background: url(img/button_white.png) -74px -680px;
+	background: url(img/button_white.png) -68px -685px;
 }
 .month_03 {
 	left: 124px;
 	background: url(img/empty.png);
 }
 .month_03:hover {
-	background: url(img/button_white.png) -130px -680px;
+	background: url(img/button_white.png) -124px -685px;
 }
 .month_04 {
 	left: 181px;
 	background: url(img/empty.png);
 }
 .month_04:hover {
-	background: url(img/button_white.png) -186px -680px;
+	background: url(img/button_white.png) -181px -685px;
 }
 .month_05 {
 	left: 240px;
 	background: url(img/empty.png);
 }
 .month_05:hover {
-	background: url(img/button_white.png) -244px -680px;
+	background: url(img/button_white.png) -240px -685px;
 }
 .month_06 {
 	left: 299px;
 	background: url(img/empty.png);
 }
 .month_06:hover {
-	background: url(img/button_white.png) -302px -680px;
+	background: url(img/button_white.png) -299px -685px;
 }
 .month_07 {
 	left: 355px;
 	background: url(img/empty.png);
 }
 .month_07:hover {
-	background: url(img/button_white.png) -358px -680px;
+	background: url(img/button_white.png) -355px -685px;
 }
 .month_08 {
 	left: 413.5px;
 	background: url(img/empty.png);
 }
 .month_08:hover {
-	background: url(img/button_white.png) -415px -680px;
+	background: url(img/button_white.png) -413.5px -685px;
 }
 .month_09 {
 	left: 471.5px;
 	background: url(img/empty.png);
 }
 .month_09:hover {
-	background: url(img/button_white.png) -472px -680px;
+	background: url(img/button_white.png) -471.5px -685px;
 }
 .month_10 {
 	left: 530px;
 	background: url(img/empty.png);
 }
 .month_10:hover {
-	background: url(img/button_white.png) -530px -680px;
+	background: url(img/button_white.png) -530px -685px;
 }
 .month_11 {
 	left: 588px;
 	background: url(img/empty.png);
 }
 .month_11:hover {
-	background: url(img/button_white.png) -587px -680px;
+	background: url(img/button_white.png) -588px -685px;
 }
 .month_12 {
 	left: 646px;
 	background: url(img/empty.png);
 }
 .month_12:hover {
-	background: url(img/button_white.png) -644px -680px;
-} */
+	background: url(img/button_white.png) -646px -685px;
+}
 .hab_cover {
 	width: 170px;
 	height: 50px;
